@@ -3,4 +3,4 @@
 	url = git@github.com:brannan/axum-starter.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:brannan/yew-starter
+	url = git@github.com:brannan/yew-starter.git
